@@ -1,0 +1,10 @@
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\obj\Debug\netcoreapp2.0\classes-demo.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\obj\Debug\netcoreapp2.0\classes-demo.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\obj\Debug\netcoreapp2.0\classes-demo.AssemblyInfo.cs
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\bin\Debug\netcoreapp2.0\classes-demo.deps.json
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\bin\Debug\netcoreapp2.0\classes-demo.runtimeconfig.json
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\bin\Debug\netcoreapp2.0\classes-demo.runtimeconfig.dev.json
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\bin\Debug\netcoreapp2.0\classes-demo.dll
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\bin\Debug\netcoreapp2.0\classes-demo.pdb
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\obj\Debug\netcoreapp2.0\classes-demo.dll
+C:\Users\Callum\Documents\dotnet-demos\classes-demo\obj\Debug\netcoreapp2.0\classes-demo.pdb

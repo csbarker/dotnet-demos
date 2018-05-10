@@ -1,0 +1,10 @@
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\obj\Debug\netcoreapp2.0\collections-demo.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\obj\Debug\netcoreapp2.0\collections-demo.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\obj\Debug\netcoreapp2.0\collections-demo.AssemblyInfo.cs
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\bin\Debug\netcoreapp2.0\collections-demo.deps.json
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\bin\Debug\netcoreapp2.0\collections-demo.runtimeconfig.json
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\bin\Debug\netcoreapp2.0\collections-demo.runtimeconfig.dev.json
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\bin\Debug\netcoreapp2.0\collections-demo.dll
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\bin\Debug\netcoreapp2.0\collections-demo.pdb
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\obj\Debug\netcoreapp2.0\collections-demo.dll
+C:\Users\Callum\Documents\dotnet-demos\collections-demo\obj\Debug\netcoreapp2.0\collections-demo.pdb
