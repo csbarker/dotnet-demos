@@ -1,0 +1,10 @@
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\obj\Debug\netcoreapp2.0\inheritance-demo.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\obj\Debug\netcoreapp2.0\inheritance-demo.AssemblyInfoInputs.cache
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\obj\Debug\netcoreapp2.0\inheritance-demo.AssemblyInfo.cs
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\bin\Debug\netcoreapp2.0\inheritance-demo.deps.json
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\bin\Debug\netcoreapp2.0\inheritance-demo.runtimeconfig.json
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\bin\Debug\netcoreapp2.0\inheritance-demo.runtimeconfig.dev.json
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\bin\Debug\netcoreapp2.0\inheritance-demo.dll
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\bin\Debug\netcoreapp2.0\inheritance-demo.pdb
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\obj\Debug\netcoreapp2.0\inheritance-demo.dll
+C:\Users\Callum\Documents\GitHub\dotnet-demos\inheritance-demo\obj\Debug\netcoreapp2.0\inheritance-demo.pdb
